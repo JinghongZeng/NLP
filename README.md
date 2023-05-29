@@ -1,1 +1,4 @@
-This repo retains code examples for sentiment analysis, chatbot, pre-trained model, used in presentations "Introduction to NLP" and "Introduction to NLP modelling".
+## Introduction to NLP (modelling)
+This repo retains code examples for sentiment analysis, chatbots, pre-trained models.
+- "ColossalAI": example for pre-trained models
+- "Examples": examples for sentiment analysis, chatbots
