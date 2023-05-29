@@ -1,0 +1,12 @@
+torchrun --standalone --nproc_per_node=1 examples/train_sft.py \
+    --pretrain "gpt2-medium" \
+    --model 'gpt2' \
+    --strategy naive \
+    --log_interval 10 \
+    --save_path examples/stage1_v2 \
+    --dataset examples/instinwild_en.json \
+    --batch_size 1 \
+    --accimulation_steps 8 \
+    --lr 2e-5 \
+    --max_epochs 1 \
+    --lora_rank 8 \

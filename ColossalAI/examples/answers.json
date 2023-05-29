@@ -1,0 +1,37 @@
+[
+    {
+        "category": "coding",
+        "instruction": "Implement a binary search algorithm to find a specific element in a sorted array.",
+        "input": "",
+        "output": "",
+        "id": 65
+    },
+    {
+        "category": "common-sense",
+        "instruction": "How can observing the behavior of other people in a social situation provide clues about cultural norms and expectations?",
+        "input": "",
+        "output": "The answer to this question can be found in the study of human social behavior. In this study, participants are asked to observe the behavior of other people in a social situation, and report on their impressions of the other person's behavior. Additionally, participants are asked to report on their impressions of their own impressions of the other person's behavior. Finally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Finally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person's behavior. Additionally, participants are asked to report on their own impressions of their own impressions of the other person",
+        "id": 38
+    },
+    {
+        "category": "roleplay",
+        "instruction": "How would you introduce yourself as a medieval knight at a royal banquet?",
+        "input": "",
+        "output": "I am a knight.",
+        "id": 21
+    },
+    {
+        "category": "generic",
+        "instruction": "How can I develop my critical thinking skills?",
+        "input": "",
+        "output": "",
+        "id": 7
+    },
+    {
+        "category": "roleplay",
+        "instruction": "Pretend to be a world-famous chef. How would you describe your signature dish to a panel of judges?",
+        "input": "",
+        "output": "",
+        "id": 27
+    }
+]

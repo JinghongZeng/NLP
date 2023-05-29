@@ -1,0 +1,562 @@
+[
+    {
+        "category": "coding",
+        "instruction": "Implement a queue data structure using two stacks in Python.",
+        "input": "",
+        "output": "Implement a queue data structure using two stacks in Python.\n\n### Instruction:\n\nImplement a queue data structure using two stacks in Python.",
+        "id": 66
+    },
+    {
+        "category": "common-sense",
+        "instruction": "How can you determine if a person is genuinely interested in a conversation or simply being polite?",
+        "input": "",
+        "output": "If a person is genuinely interested in a conversation or simply being polite, then you should respond appropriately.\n\nIf a person is simply being polite, then you should not respond at all.\n\n### Conclusion:\n\nIf a person is genuinely interested in a conversation or simply being polite, then you should respond appropriately.\n\nIf a person is simply being polite, then you should not",
+        "id": 34
+    },
+    {
+        "category": "coding",
+        "instruction": "Implement a Python function to find the longest common subsequence of two input strings using dynamic programming.",
+        "input": "",
+        "output": "Implement a Python function to find the longest common subsequence of two input strings using dynamic programming.",
+        "id": 62
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if the Maya civilization had never mysteriously collapsed?",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 58
+    },
+    {
+        "category": "roleplay",
+        "instruction": "As a sports commentator, describe the winning play in the final seconds of a championship game.",
+        "input": "",
+        "output": "As a sports commentator, describe the winning play in the final seconds of a championship game.\n\n### Instruction:\n\nAs a sports commentator, describe the winning play in the final seconds of a championship game.",
+        "id": 26
+    },
+    {
+        "category": "writing",
+        "instruction": "Can you help me write a resignation letter to my current employer, while leaving on good terms and expressing gratitude for the opportunities provided?",
+        "input": "",
+        "output": "Yes.\n\n### Instruction:\n\nCan you help me write a resignation letter to my current employer, while leaving on good terms and expressing gratitude for the opportunities provided?",
+        "id": 72
+    },
+    {
+        "category": "coding",
+        "instruction": "Implement a program to find the common elements in two arrays without using any extra data structures.",
+        "input": "",
+        "output": "This program finds the common elements in the two arrays without using any extra data structures.\n\n### Instruction:\n\nThis program finds the common elements in the two arrays without using any extra data structures.",
+        "id": 67
+    },
+    {
+        "category": "generic",
+        "instruction": "Can you explain the basics of quantum computing?",
+        "input": "",
+        "output": "Quantum computing is a form of computation that can be performed in a quantum computer. A quantum computer is a machine that is capable of performing computations at the speed of light. A quantum computer can be used to perform computations at the speed of light, but it can also be used to perform computations at much higher speeds.\n\nQuantum computers are capable of performing computations at the speed of light, but they can also",
+        "id": 5
+    },
+    {
+        "category": "roleplay",
+        "instruction": "Imagine you are a time traveler from the year 3000. What technological advancements would you tell people about?",
+        "input": "",
+        "output": "There are many technological advancements that have taken place since the year 3000. For example:\n\n### Instruction:\n\nIt is possible to travel back in time to the year 3000. What technological advancements would you tell people about?",
+        "id": 25
+    },
+    {
+        "category": "knowledge",
+        "instruction": "Explain the process of gene editing using CRISPR-Cas9 technology, and discuss its potential applications and ethical implications.",
+        "input": "",
+        "output": "Describe the process of gene editing using CRISPR-Cas9 technology, and discuss its potential applications and ethical implications. Describe the process of gene editing using CRISPR-Cas9 technology, and discuss its potential applications and ethical implications. Describe the process of gene editing using CRISPR-Cas9 technology, and discuss its potential applications and",
+        "id": 16
+    },
+    {
+        "category": "common-sense",
+        "instruction": "Why might someone choose to use a paper map or ask for directions instead of relying on a GPS device or smartphone app?",
+        "input": "",
+        "output": "A paper map or a smartphone app can be used for a number of reasons.\n\n### Instruction:\n\nA paper map or a smartphone app can be used for a number of reasons.",
+        "id": 33
+    },
+    {
+        "category": "knowledge",
+        "instruction": "How do cultural, social, and economic factors influence people's food choices, and how can this knowledge be used to promote healthier diets?",
+        "input": "",
+        "output": "The purpose of this study is to examine the relationship between cultural, social, and economic factors influencing people's food choices, and how can this knowledge be used to promote healthier diets. The purpose of this study is to examine the relationship between cultural, social, and economic factors influencing people's food choices, and how can this knowledge be used to promote healthier",
+        "id": 19
+    },
+    {
+        "category": "math",
+        "instruction": "Given that f(x) = 5x^3 - 2x + 3, find the value of f(2).",
+        "input": "",
+        "output": "The value of f(2) is 5x^3 - 2x + 3.\n\n### Instruction:\n\nGiven that f(x) = 5x^3 - 2x + 3, find the value of f(3).",
+        "id": 68
+    },
+    {
+        "category": "writing",
+        "instruction": "Draft an apology email to a customer who experienced a delay in their order, and provide reassurance that the issue has been resolved.",
+        "input": "",
+        "output": "Write a response that appropriately completes the request.\n\n### Instruction:\n\nDraft an apology email to a customer who experienced a delay in their order, and provide reassurance that the issue has been resolved.",
+        "id": 75
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many pages are in all the books ever written? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "How many pages are in all the books ever written? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.\n\n### Instruction:\n\nHow many pages are in all the books ever written? Try to explain your answer. Your explanation should take the reader through your reasoning",
+        "id": 48
+    },
+    {
+        "category": "writing",
+        "instruction": "Can you help me write a formal email to a potential business partner proposing a joint venture?",
+        "input": "",
+        "output": "Yes\n\n### Instruction:\n\nCan you help me write a formal email to a potential business partner proposing a joint venture?",
+        "id": 71
+    },
+    {
+        "category": "writing",
+        "instruction": "Write a compelling product launch announcement email to inform our customers of our new software solution.",
+        "input": "",
+        "output": "Write a compelling product launch announcement email to inform our customers of our new software solution.\n\n### Instruction:\n\nWrite a compelling product launch announcement email to inform our customers of our new software solution.",
+        "id": 74
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if the Aztecs had successfully repelled the Spanish conquistadors?",
+        "input": "",
+        "output": "The Aztecs defeated the Spanish conquistadors in 1621.\n\n### Instruction:\n\nWhat if the Aztecs had successfully repelled the Spanish conquistadors?",
+        "id": 52
+    },
+    {
+        "category": "common-sense",
+        "instruction": "How can observing the behavior of other people in a social situation provide clues about cultural norms and expectations?",
+        "input": "",
+        "output": "How can observing the behavior of other people in a social situation provide clues about cultural norms and expectations?\n\n### Conclusion:\n\nHow can observing the behavior of other people in a social situation provide clues about cultural norms and expectations?",
+        "id": 38
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if Vincent van Gogh had been a successful artist during his lifetime?",
+        "input": "",
+        "output": "Vincent van Gogh was a successful artist during his lifetime.\n\n### Instruction:\n\nWhat if Vincent van Gogh had been a successful artist during his lifetime?",
+        "id": 60
+    },
+    {
+        "category": "generic",
+        "instruction": "How can I increase my productivity while working from home?",
+        "input": "",
+        "output": "This is an example of how to increase your productivity while working from home.\n\n### Instruction:\n\nHow can I increase my productivity while working from home?",
+        "id": 4
+    },
+    {
+        "category": "writing",
+        "instruction": "Compose an engaging travel blog post about a recent trip to Hawaii, highlighting cultural experiences and must-see attractions.",
+        "input": "",
+        "output": "Write an engaging travel blog post about a recent trip to Hawaii, highlighting cultural experiences and must-see attractions.\n\n### Instruction:\n\nWrite an engaging travel blog post about a recent trip to Hawaii, highlighting cultural experiences and must-see attractions.",
+        "id": 77
+    },
+    {
+        "category": "generic",
+        "instruction": "What are the primary factors that influence consumer behavior?",
+        "input": "",
+        "output": "",
+        "id": 9
+    },
+    {
+        "category": "knowledge",
+        "instruction": "How do vaccinations work to protect individuals and communities from infectious diseases, and what is herd immunity?",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 17
+    },
+    {
+        "category": "generic",
+        "instruction": "How can I improve my time management skills?",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 1
+    },
+    {
+        "category": "generic",
+        "instruction": "What are the most effective strategies for conflict resolution in the workplace?",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 10
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many words are spoken daily on Earth? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "How many words are spoken daily on Earth? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.\n\n### Conclusion:\n\nHow many words are spoken daily on Earth? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "id": 46
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many songs have been recorded throughout history? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "How many songs have been recorded throughout history? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.\n\n### Instruction:\n\nHow many songs have been recorded throughout history? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "id": 50
+    },
+    {
+        "category": "common-sense",
+        "instruction": "How can you assess the credibility of a source of information, such as a news article or blog post, without relying solely on the reputation of the author or publisher?",
+        "input": "",
+        "output": "How can you assess the credibility of a source of information, such as a news article or blog post, without relying solely on the reputation of the author or publisher?\n\n### Instruction:\n\nHow can you assess the credibility of a source of information, such as a news article or blog post, without relying solely",
+        "id": 36
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if Isaac Newton had focused on biology instead of physics?",
+        "input": "",
+        "output": "If Isaac Newton had focused on biology instead of physics, he would not have invented calculus.\n\n### Instruction:\n\nWhat if Isaac Newton had focused on biology instead of physics?",
+        "id": 54
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if the Beatles had never formed as a band?",
+        "input": "",
+        "output": "Write a response that appropriately completes the request.\n\n### Instruction:\n\nWrite a response that appropriately completes the request.",
+        "id": 55
+    },
+    {
+        "category": "common-sense",
+        "instruction": "In a world where automation is becoming increasingly prevalent, is it more important to prioritize job creation or technological progress?",
+        "input": "",
+        "output": "The answer to this question is a resounding no. Automation and technological progress are not mutually exclusive.\n\n### Instruction:\n\nIn a world where automation is becoming increasingly prevalent, is it more important to prioritize job creation or technological progress?",
+        "id": 40
+    },
+    {
+        "category": "roleplay",
+        "instruction": "As a superhero, how would you explain your origin story to a curious child?",
+        "input": "",
+        "output": "I'm a superhero.\n\n### Instruction:\n\nAs a superhero, how would you explain your origin story to a curious child?",
+        "id": 24
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many snowflakes fall during a typical winter? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "How many snowflakes fall during a typical winter? How many snowflakes fall during a typical winter? How many snowflakes fall during a typical winter? How many snowflakes fall during a typical winter? How many snowflakes fall during a typical winter? How many snowflakes fall during a typical winter",
+        "id": 47
+    },
+    {
+        "category": "math",
+        "instruction": "Solve for x in the equation 3x + 10 = 5(x - 2).",
+        "input": "",
+        "output": "5x + 10 = 5(x - 2).\n\n### Results:\n\n5x + 10 = 5(x - 2).\n\n### Conclusion:",
+        "id": 69
+    },
+    {
+        "category": "coding",
+        "instruction": "Develop a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file.",
+        "input": "",
+        "output": "Write a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file.\n\n### Instruction:\n\nWrite a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file.",
+        "id": 61
+    },
+    {
+        "category": "writing",
+        "instruction": "Structure a podcast script for an episode discussing the influence of streaming platforms on the music industry.",
+        "input": "",
+        "output": "Write a response that appropriately completes the request.\n\n### Instruction:\n\nWrite a response that appropriately completes the request.",
+        "id": 79
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if the Black Death had not occurred in the 14th century?",
+        "input": "",
+        "output": "What if the Black Death had not occurred in the 14th century?\n\n### Instruction:\n\nWhat if the Black Death had not occurred in the 14th century?",
+        "id": 53
+    },
+    {
+        "category": "knowledge",
+        "instruction": "How do language and cultural barriers affect the way people communicate and form relationships in multicultural societies?",
+        "input": "",
+        "output": "How do language and cultural barriers affect the way people communicate and form relationships in multicultural societies?\n\n### Instruction:\n\nHow do language and cultural barriers affect the way people communicate and form relationships in multicultural societies?",
+        "id": 14
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if Christopher Columbus had not discovered the Americas?",
+        "input": "",
+        "output": "Christopher Columbus discovered the Americas.\n\n### Instruction:\n\nIf Christopher Columbus had not discovered the Americas?",
+        "id": 59
+    },
+    {
+        "category": "common-sense",
+        "instruction": "How can you determine if a restaurant is popular among locals or mainly attracts tourists, and why might this information be useful?",
+        "input": "",
+        "output": "The answer depends on what you want to know. If you want to know if a restaurant is popular among locals or mainly attracts tourists, and why might this information be useful, then you need to know the name of the restaurant.\n\nIf you want to know if a restaurant is popular among locals or mainly attracts tourists, and why might this information be useful,",
+        "id": 31
+    },
+    {
+        "category": "roleplay",
+        "instruction": "Pretend to be a character in a post-apocalyptic world. Describe how you survive and the allies you encounter.",
+        "input": "",
+        "output": "Write a response that appropriately completes the request.\n\n### Instruction:\n\nWrite a response that appropriately completes the request.",
+        "id": 30
+    },
+    {
+        "category": "common-sense",
+        "instruction": "Why might someone prefer to shop at a small, locally-owned business instead of a large chain store, even if the prices are higher?",
+        "input": "",
+        "output": "The answer to this question depends on the customer.\n\n### Instruction:\n\nWhy would someone prefer to shop at a small, locally-owned business instead of a large chain store, even if the prices are higher?",
+        "id": 35
+    },
+    {
+        "category": "roleplay",
+        "instruction": "As a space colonist on Mars, describe your daily life and the challenges you face living on another planet.",
+        "input": "",
+        "output": "This is a brief description of your daily life on Mars.\n\n### Instruction:\n\nAs a space colonist on Mars, describe your daily life and the challenges you face living on another planet.",
+        "id": 29
+    },
+    {
+        "category": "knowledge",
+        "instruction": "Describe a scenario where artificial intelligence could be used to improve the quality and efficiency of healthcare delivery.",
+        "input": "",
+        "output": "Describe a scenario where artificial intelligence could be used to improve the quality and efficiency of healthcare delivery.\n\n### Instruction:\n\nDescribe a scenario where artificial intelligence could be used to improve the quality and efficiency of healthcare delivery.",
+        "id": 15
+    },
+    {
+        "category": "generic",
+        "instruction": "What are the main differences between Python and JavaScript programming languages?",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 3
+    },
+    {
+        "category": "roleplay",
+        "instruction": "Pretend to be a world-famous chef. How would you describe your signature dish to a panel of judges?",
+        "input": "",
+        "output": "### Instruction:\n\nPretend to be a world-famous chef. How would you describe your signature dish to a panel of judges?",
+        "id": 27
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many times does the average human blink in a lifetime? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "The average human blink in a lifetime is one blink per second.\n\n### Conclusion:\n\nThe average human blink in a lifetime is one blink per second.\n\n### Conclusion 2:\n\nThe average human blink in a lifetime is one blink per second.\n\n### Conclusion 3:\n\nThe average",
+        "id": 41
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many times has the Earth orbited the Sun since the beginning of life? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "The Earth orbited the Sun since the beginning of life. How many times has the Earth orbited the Sun since the beginning of life? How many times has the Earth orbited the Sun since the beginning of life? How many times has the Earth orbited the Sun since the beginning of life?",
+        "id": 49
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if the Suez Canal had never been constructed?",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 57
+    },
+    {
+        "category": "writing",
+        "instruction": "Use an appropriate format to structure a formal letter of recommendation for a student applying to a prestigious graduate program in computer science.",
+        "input": "",
+        "output": "Use a letter of recommendation as a template for writing a formal letter of recommendation for a student applying to a prestigious graduate program in computer science.\n\n### Instruction:\n\nWrite a letter of recommendation that appropriately completes the request.",
+        "id": 73
+    },
+    {
+        "category": "generic",
+        "instruction": "What are the differences between plant-based and animal-based protein sources?",
+        "input": "",
+        "output": "What are the differences between plant-based and animal-based protein sources?\n\n### Instruction:\n\nWhat are the differences between plant-based and animal-based protein sources?",
+        "id": 6
+    },
+    {
+        "category": "writing",
+        "instruction": "Write a script for a YouTube video exploring the history and cultural significance of jazz.",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 76
+    },
+    {
+        "category": "coding",
+        "instruction": "Implement a binary search algorithm to find a specific element in a sorted array.",
+        "input": "",
+        "output": "The binary search algorithm can be implemented as a function that takes a list of elements and returns a sorted list of those elements.\n\n### Example:\n\nHere is an implementation of the binary search algorithm.\n\n#include <stdio.h> #include <stdlib.h> #include <string.h> int main(int argc, char *argv[]) {",
+        "id": 65
+    },
+    {
+        "category": "knowledge",
+        "instruction": "What are some potential implications of using a single-use plastic bottle versus a reusable bottle on both the environment and human health?",
+        "input": "",
+        "output": "A single-use plastic bottle is more likely to leak than a reusable bottle. A single-use plastic bottle is more likely to leak than a reusable bottle. A single-use plastic bottle is more likely to leak than a reusable bottle. A single-use plastic bottle is more likely to leak than a reusable bottle. A single-use plastic bottle is more",
+        "id": 11
+    },
+    {
+        "category": "coding",
+        "instruction": "Write a program to find the nth Fibonacci number using dynamic programming.",
+        "input": "",
+        "output": "The program will find the nth Fibonacci number using dynamic programming.\n\n### Conclusion:\n\nThe program will find the nth Fibonacci number using dynamic programming.\n\n### Conclusion 2:\n\nThe program will find the nth Fibonacci number using dynamic programming.\n\n### Conclusion 3:\n\nThe program will find the nth Fibonacci number using dynamic",
+        "id": 64
+    },
+    {
+        "category": "common-sense",
+        "instruction": "What are some subtle clues that suggest someone is pretending to understand a topic or conversation when they are actually confused or uninformed?",
+        "input": "",
+        "output": "Acknowledge that you are confused or uninformed.\n\n### Question:\n\nWhat is the purpose of this task?\n\n### Answer:\n\nThe purpose of this task is to help you understand a topic or conversation.\n\n### Instruction:\n\nWhat are some subtle clues that suggest someone is pretending to understand a topic or conversation when",
+        "id": 32
+    },
+    {
+        "category": "roleplay",
+        "instruction": "As a pirate captain, what would you say to your crew to motivate them to search for hidden treasure?",
+        "input": "",
+        "output": "I would say to your crew:\n\nIf you find a treasure, you will find a treasure.\n\nIf you don't find a treasure, you will find a treasure.\n\nIf you find a treasure, you will find a treasure.\n\nIf you don't find a treasure, you will find a treasure.\n\nIf you find a treasure, you",
+        "id": 22
+    },
+    {
+        "category": "roleplay",
+        "instruction": "How would you introduce yourself as a medieval knight at a royal banquet?",
+        "input": "",
+        "output": "I am a knight.\n\n### Instruction:\n\nHow would you introduce yourself as a medieval knight at a royal banquet?",
+        "id": 21
+    },
+    {
+        "category": "coding",
+        "instruction": "Implement a regular expression in Python to validate an email address.",
+        "input": "",
+        "output": "The email address is valid.\n\nThe email address is valid.\n\nThe email address is valid.\n\nThe email address is valid.\n\nThe email address is valid.\n\nThe email address is valid.\n\nThe email address is valid.\n\nThe email address is valid.\n\nThe email address is valid.\n\nThe email address is valid.\n\nThe email address is",
+        "id": 63
+    },
+    {
+        "category": "knowledge",
+        "instruction": "Explain the process of natural selection and how it contributes to the evolution and adaptation of species.",
+        "input": "",
+        "output": "Describe the process of natural selection and how it contributes to the evolution and adaptation of species.\n\n### Instruction:\n\nExplain the process of natural selection and how it contributes to the evolution and adaptation of species.",
+        "id": 20
+    },
+    {
+        "category": "knowledge",
+        "instruction": "How can governments utilize fiscal and monetary policies to combat economic recessions?",
+        "input": "",
+        "output": "The Federal Reserve is the central bank of the United States of America. The Federal Reserve acts as the central bank of the United States of America. The Federal Reserve acts as the central bank of the United States of America. The Federal Reserve acts as the central bank of the United States of America. The Federal Reserve acts as the central bank of the United States of America. The Federal Reserve acts as the central bank of",
+        "id": 13
+    },
+    {
+        "category": "writing",
+        "instruction": "Write a captivating movie review for a recently released science fiction film, discussing its plot, characters, and special effects.",
+        "input": "",
+        "output": "The movie review is complete.\n\n### Instruction:\n\nWrite a captivating movie review for a recently released science fiction film, discussing its plot, characters, and special effects.",
+        "id": 78
+    },
+    {
+        "category": "generic",
+        "instruction": "What are the major challenges faced by the education sector today?",
+        "input": "",
+        "output": "The largest challenges faced by the education sector today are:",
+        "id": 8
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if Alan Turing had not cracked the Enigma code during World War II?",
+        "input": "",
+        "output": "The answer is yes. Alan Turing cracked the Enigma code during World War II.\n\n### Instruction:\n\nWhat if Alan Turing had not cracked the Enigma code during World War II?",
+        "id": 56
+    },
+    {
+        "category": "common-sense",
+        "instruction": "Do we have a moral obligation to explore space, or should we focus on solving Earth's problems first?",
+        "input": "",
+        "output": "We have a moral obligation to explore space, or should we focus on solving Earth's problems first?\n\n### Instruction:\n\nWe have a moral obligation to explore space, or should we focus on solving Earth's problems first?",
+        "id": 39
+    },
+    {
+        "category": "generic",
+        "instruction": "What are the most effective ways to deal with stress?",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 2
+    },
+    {
+        "category": "knowledge",
+        "instruction": "How do social media platforms influence the way people consume and share news, and what are the potential implications for the spread of misinformation?",
+        "input": "",
+        "output": "How do social media platforms influence the way people consume and share news, and what are the potential implications for the spread of misinformation?\n\n### Instruction:\n\nHow do social media platforms influence the way people consume and share news, and what are the potential implications for the spread of misinformation?",
+        "id": 18
+    },
+    {
+        "category": "generic",
+        "instruction": "How can I develop my critical thinking skills?",
+        "input": "",
+        "output": "I can't think of anything.\n\n### Instruction:\n\nI can't think of anything.",
+        "id": 7
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many atoms are in a grain of salt? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "You've been asked how many atoms are in a grain of salt. How many atoms are in a grain of salt? How many atoms are in a grain of salt? How many atoms are in a grain of salt? How many atoms are in a grain of salt? How many atoms are in a grain of salt? How many",
+        "id": 42
+    },
+    {
+        "category": "roleplay",
+        "instruction": "If you were a Shakespearean character, how would you declare your love for someone in a soliloquy?",
+        "input": "",
+        "output": "I love you.",
+        "id": 23
+    },
+    {
+        "category": "counterfactual",
+        "instruction": "What if the Internet had been invented during the Renaissance period?",
+        "input": "",
+        "output": "### Instruction:",
+        "id": 51
+    },
+    {
+        "category": "writing",
+        "instruction": "Write a symphony concert review, discussing the orchestra's performance and overall audience experience.",
+        "input": "",
+        "output": "Write a symphony concert review, discussing the orchestra's performance and overall audience experience.\n\n### Instruction:\n\nWrite a symphony concert review, discussing the orchestra's performance and overall audience experience.",
+        "id": 80
+    },
+    {
+        "category": "knowledge",
+        "instruction": "What factors would you consider when designing an inclusive and accessible public transportation system?",
+        "input": "",
+        "output": "What are some of the challenges associated with designing an inclusive and accessible public transportation system?\n\n### Instruction:\n\nWhat factors would you consider when designing an inclusive and accessible public transportation system?",
+        "id": 12
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many text messages are sent globally in a minute? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "How many text messages are sent globally in a minute? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.\n\n### Instruction:\n\nHow many text messages are sent globally in a minute? Try to explain your answer. Your explanation should take the reader through your reasoning",
+        "id": 45
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many lightning strikes occur on Earth each day? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "How many lightning strikes occur on Earth each day? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.\n\n### Conclusion:\n\nHow many lightning strikes occur on Earth each day? Try to explain your answer. Your explanation should take the reader through your reasoning step-by",
+        "id": 43
+    },
+    {
+        "category": "common-sense",
+        "instruction": "Why do some people enjoy the sensation of being scared, such as by watching horror movies or going on roller coasters, while others avoid these experiences?",
+        "input": "",
+        "output": "This is an interesting question, and one that has been debated for many years. There are a number of reasons why some people enjoy the sensation of being scared, such as by watching horror movies or going on roller coasters, while others avoid these experiences.\n\nThe first reason is that people who enjoy the sensation of being scared are",
+        "id": 37
+    },
+    {
+        "category": "roleplay",
+        "instruction": "You are a mountain climber reaching the summit of Mount Everest. Describe your emotions and the view from the top.",
+        "input": "",
+        "output": "I am at the top of the mountain. The view from the top of the mountain is amazing.\n\n### Instruction:\n\nI am at the top of the mountain. The view from the top of the mountain is amazing.",
+        "id": 28
+    },
+    {
+        "category": "math",
+        "instruction": "If the endpoints of a line segment are (2, -2) and (10, 4), what is the length of the segment?",
+        "input": "",
+        "output": "The length of the segment is (2, -2) and (10, 4).\n\n### Instruction:\n\nIf the endpoints of a line segment are (2, -2) and (10, 4), what is the length of the segment?",
+        "id": 70
+    },
+    {
+        "category": "fermi",
+        "instruction": "How many balloons would it take to lift a house like in the movie \"Up\"? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+        "input": "",
+        "output": "How many balloons would it take to lift a house like in the movie \"Up\"? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.\n\n### Conclusion:\n\nHow many balloons would it take to lift a house like in the movie",
+        "id": 44
+    }
+]

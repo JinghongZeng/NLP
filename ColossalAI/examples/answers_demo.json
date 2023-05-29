@@ -1,0 +1,37 @@
+[
+    {
+        "category": "common-sense",
+        "instruction": "What are some subtle clues that suggest someone is pretending to understand a topic or conversation when they are actually confused or uninformed?",
+        "input": "",
+        "output": "",
+        "id": 32
+    },
+    {
+        "category": "knowledge",
+        "instruction": "What are some potential implications of using a single-use plastic bottle versus a reusable bottle on both the environment and human health?",
+        "input": "",
+        "output": "",
+        "id": 11
+    },
+    {
+        "category": "roleplay",
+        "instruction": "As a pirate captain, what would you say to your crew to motivate them to search for hidden treasure?",
+        "input": "",
+        "output": "They should search for hidden treasure.",
+        "id": 22
+    },
+    {
+        "category": "knowledge",
+        "instruction": "How do cultural, social, and economic factors influence people's food choices, and how can this knowledge be used to promote healthier diets?",
+        "input": "",
+        "output": "",
+        "id": 19
+    },
+    {
+        "category": "roleplay",
+        "instruction": "How would you introduce yourself as a medieval knight at a royal banquet?",
+        "input": "",
+        "output": "",
+        "id": 21
+    }
+]
