@@ -1,1 +1,4 @@
-introduction
+## ColossalAI open-source pipeline to train a ChatGPT
+
+The "examples" folder comes from the path "applications/Chat" in [ColossalAI](https://github.com/hpcaitech/ColossalAI), with user changes.
+It contains code to train a ChatGPT pipeline and generate predictions from the first stage.
