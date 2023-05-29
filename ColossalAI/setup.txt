@@ -1,0 +1,28 @@
+### This file contains steps to set up colosslai modelling environment.
+### The OS is Linux.
+
+
+# Install python and related packages, commands on Linux
+
+# Install colossalai
+git clone https://github.com/hpcaitech/ColossalAI.git
+cd ColossalAI
+pip install .
+
+# Install the environment
+cd user_path/ColossalAI/applications/Chat
+conda create -n coati
+conda activate coati
+pip install .
+
+# Install the transformers
+git clone https://github.com/hpcaitech/transformers
+cd transformers
+pip install .
+
+# Install requirements
+cd ../examples
+pip install -r requirements.txt
+
+
+
